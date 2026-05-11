@@ -29,7 +29,7 @@ Sistema interno de ponto, banco de horas e gestão de acesso.
 
 Projeto desenvolvido por mim com foco em controle de jornada, autenticação segura, perfis de acesso e organização administrativa para equipes.
 
-🔗 Acesse: (https://pontodigital-sync8.vercel.app/)
+🔗 Acesse: [pontodigital-sync8.vercel.app](https://pontodigital-sync8.vercel.app/)
 
 **Principais recursos:**
 - Login com e-mail e senha
