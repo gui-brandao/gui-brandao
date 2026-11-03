@@ -72,15 +72,14 @@ Uso IA **dentro dos produtos**, não só para escrever código. A regra que sigo
 ## 📊 Estatísticas
 
 <p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gui-brandao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-brandao&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Resumo do perfil" />
 </p>
-
 <p>
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Resumo do perfil (gerado no repositório)" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas nos commits" />
 </p>
 
-<sub>Se o serviço externo de estatísticas estiver fora do ar, o resumo acima continua aparecendo: ele é gerado por uma GitHub Action e salvo neste repositório.</sub>
+<sub>Cards gerados diariamente por uma GitHub Action e salvos neste repositório, sem depender de serviço externo.</sub>
 
 <details>
 <summary>Estudos iniciais</summary>
