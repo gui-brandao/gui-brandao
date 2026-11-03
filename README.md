@@ -28,16 +28,16 @@ Uso IA **dentro dos produtos**, não só para escrever código. A regra que sigo
 
 ## 🚀 Projetos em destaque
 
-| Projeto | O que resolve | Stack | Acesso |
-| --- | --- | --- | --- |
-| **Painel da Incubadora (V2)** | Centraliza a gestão de uma incubadora de startups: tarefas, mentorias, ciclo das startups, chat interno, relatório mensal em PDF e radar de editais abertos. | Next.js · TypeScript · Supabase · NextAuth · Google Sheets API · Vitest · Playwright | 🔒 Privado |
-| **Agente de Fomento** | Pré-diagnóstico de oportunidades de fomento: chat consultivo, ranking auditável de editais e análise de aderência a partir do PDF do edital. | Next.js · React 19 · TypeScript · Tailwind · Zod · unpdf · Gemini / Groq / Cerebras | 🔒 Privado |
-| **MoneyX (FINBOT)** | Assistente financeiro pessoal: registro de gastos em linguagem natural pelo Telegram, com dashboard web. A IA interpreta, o banco calcula. | Next.js 15 · TypeScript · Supabase (RLS) · OpenAI · Telegram Bot API · Recharts | 🔒 Privado |
-| **Ponto Digital Sync8** | Controle de ponto e banco de horas com geolocalização, solicitações de ajuste/abono/férias, aprovação por gestor e relatórios mensais. | Next.js · TypeScript · Prisma · PostgreSQL · NextAuth · bcrypt · Web Push | 🔗 [Acessar](https://pontodigital-sync8.vercel.app/) |
-| **Ponto Eletrônico (React + Supabase)** | Versão do sistema de ponto com perfis por cargo, fechamento de período pela gestão e importação de histórico via CSV. | React · TypeScript · Vite · Supabase · shadcn/ui · Papaparse | 🔒 Privado |
-| **Portal de Editais** | Portal de inscrição em editais com formulário em etapas, área administrativa e CRM das empresas inscritas. | React · TypeScript · Vite · shadcn/ui · React Hook Form · Zod | 🔒 Privado |
-| **Jornada de Incubação** | Linha do tempo interativa para o onboarding de startups incubadas, com modo apresentação. | React 19 · Vite · JavaScript | 🔒 Privado |
-| **Painel Consolidado de Indicadores** | Mockup de um painel único que reúne indicadores de várias áreas de um parque tecnológico, com seletor de período e modo apresentação. | HTML · CSS · JavaScript · ECharts | 🔗 [Repositório](https://github.com/gui-brandao/mockup-indicadores) |
+| Projeto | O que resolve | Stack |
+| --- | --- | --- |
+| **Painel da Incubadora (V2)** | Centraliza a gestão de uma incubadora de startups: tarefas, mentorias, ciclo das startups, chat interno, relatório mensal em PDF e radar de editais abertos. | Next.js · TypeScript · Supabase · NextAuth · Google Sheets API · Vitest · Playwright |
+| **Agente de Fomento** | Pré-diagnóstico de oportunidades de fomento: chat consultivo, ranking auditável de editais e análise de aderência a partir do PDF do edital. | Next.js · React 19 · TypeScript · Tailwind · Zod · unpdf · Gemini / Groq / Cerebras |
+| **MoneyX (FINBOT)** | Assistente financeiro pessoal: registro de gastos em linguagem natural pelo Telegram, com dashboard web. A IA interpreta, o banco calcula. | Next.js 15 · TypeScript · Supabase (RLS) · OpenAI · Telegram Bot API · Recharts |
+| **Ponto Digital Sync8** | Controle de ponto e banco de horas com geolocalização, solicitações de ajuste/abono/férias, aprovação por gestor e relatórios mensais. | Next.js · TypeScript · Prisma · PostgreSQL · NextAuth · bcrypt · Web Push |
+| **Ponto Eletrônico (React + Supabase)** | Versão do sistema de ponto com perfis por cargo, fechamento de período pela gestão e importação de histórico via CSV. | React · TypeScript · Vite · Supabase · shadcn/ui · Papaparse |
+| **Portal de Editais** | Portal de inscrição em editais com formulário em etapas, área administrativa e CRM das empresas inscritas. | React · TypeScript · Vite · shadcn/ui · React Hook Form · Zod |
+| **Jornada de Incubação** | Linha do tempo interativa para o onboarding de startups incubadas, com modo apresentação. | React 19 · Vite · JavaScript |
+| **Painel Consolidado de Indicadores** | Mockup de um painel único que reúne indicadores de várias áreas de um parque tecnológico, com seletor de período e modo apresentação. | HTML · CSS · JavaScript · ECharts |
 
 **Em desenvolvimento:** uma plataforma de leads B2B e uma API de consulta a dados do INPI.
 
@@ -86,9 +86,7 @@ Uso IA **dentro dos produtos**, não só para escrever código. A regra que sigo
 <summary>Estudos iniciais</summary>
 
 Projetos de prática em HTML, CSS e JavaScript do começo da minha trajetória:
-[Ping-Pong-JS](https://github.com/gui-brandao/Ping-Pong-JS) ·
-[alura-midi-dj](https://github.com/gui-brandao/alura-midi-dj) ·
-[projeto_alura_plus](https://github.com/gui-brandao/projeto_alura_plus)
+Ping-Pong-JS · alura-midi-dj · projeto_alura_plus
 
 </details>
 
